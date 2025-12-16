@@ -15,7 +15,6 @@
       clean-boot = "sudo /run/current-system/bin/switch-to-configuration boot";
       gc = "sudo nix-collect-garbage -d";
       optimize = "sudo nix-store --optimise";
-      cpdf = "rm -r /home/khyryra/dotfiles/nixos-config && cp -r /home/khyryra/nixos-config /home/khyryra/dotfiles/nixos-config";
     };
   };
 

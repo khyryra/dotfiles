@@ -396,7 +396,7 @@
           audioCodec = "opus";
           audioSource = "default_output";
           colorRange = "limited";
-          directory = "/home/khyryra/Videos";
+          directory = "/mnt/data/Screen Recordings";
           frameRate = 60;
           quality = "high";
           showCursor = true;

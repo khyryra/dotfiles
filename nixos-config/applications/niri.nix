@@ -27,6 +27,8 @@
       hotkey-overlay.skip-at-startup = true;
       prefer-no-csd = true;
 
+      screenshot-path = "/mnt/data/Screenshots/Niri %Y-%m-%d %H:%M:%S.png";
+
       environment = {
         QT_QPA_PLATFORM = "wayland";
       };
