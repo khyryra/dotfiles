@@ -1,0 +1,9 @@
+{
+  ...
+}:
+
+{
+  time = {
+    timeZone = "America/Denver";
+  };
+}
